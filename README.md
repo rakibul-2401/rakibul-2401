@@ -1,3 +1,4 @@
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 959px; height: 500px; margin: 0px; width: 959px;" alt="Chill Coding/Programming Lo-fi Animation [Royalty-Free Stock Animation]  VideoPlasty | Animated Coding Gif | bensmarketus.com" jsname="kn3ccd">
 <h1 align="center">Hi 👋, I'm Md Rakibul Islam Sawon</h1>
 <h3 align="center">A Passionate Frontend & Backend Developer</h3>
 
